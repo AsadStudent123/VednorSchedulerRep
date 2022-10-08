@@ -1,0 +1,16 @@
+.selectDropdown{
+    width: 200px;
+    height: 32px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.card{
+    margin: 25px;
+}
+
+label{
+    font-weight: bold;
+}
+.time {
+    width: 100px;
+}
