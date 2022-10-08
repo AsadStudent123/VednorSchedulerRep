@@ -1,0 +1,2 @@
+To start client write npm start
+To start server write npm run devStart
